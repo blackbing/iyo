@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "iyo",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "play iyo on new tab",
+    "description": "The description of the application"
+  }
+}
