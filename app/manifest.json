@@ -1,6 +1,6 @@
 {
     "name": "iyo",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "manifest_version": 2,
     "description": "play iyo when open a new tab",
     "icons": {
